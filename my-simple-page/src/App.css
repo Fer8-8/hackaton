@@ -16,3 +16,10 @@
 .App-link {
   color: #61dafb;
 }
+
+button {
+  padding: 10px;
+  margin: 30px;
+  background-color: rgb(158, 158, 226);
+  font-size: 20px;
+}
